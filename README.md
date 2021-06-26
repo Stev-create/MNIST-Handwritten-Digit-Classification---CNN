@@ -1,4 +1,4 @@
 # MNIST---CNN
 Simple MNIST Project
 
-![GitHub Logo](/images/CNN.PNG)
+![GitHub Logo](/Images/CNN.PNG)
